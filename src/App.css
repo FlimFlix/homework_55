@@ -118,6 +118,7 @@
 .Burger {
     width: 100%;
     margin: auto;
+    margin-top: 20px;
     height: 250px;
     overflow: auto;
     text-align: center;
@@ -148,7 +149,7 @@
 
 .Form {
     width: 450px;
-    margin-top: 20px;
+    margin: 15px;
     background-color: #cf8f2e;
     height: 250px;
     overflow: auto;
